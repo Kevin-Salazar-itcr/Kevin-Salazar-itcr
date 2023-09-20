@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Salazar</h1>
-<h3 align="center">I´m a dedicated and passionate frontend and software dev from Costa Rica</h3>
+<h3 align="center">I´m a dedicated and passionate backend dev from Costa Rica</h3>
 
 - 🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="objective-c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
 
