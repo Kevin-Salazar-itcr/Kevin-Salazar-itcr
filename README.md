@@ -16,6 +16,7 @@ With a zest for innovation and a commitment to excellence, I'm not just a coder,
 <h4 align= "center">👨‍💻 Feel free to explore all my projects at your leisure: <a><b>https://github.com/Kevin-Salazar-itcr</b></a></h4>
 <h4 align= "center">📫 Don't you wanna check out my private repos? Hit me up: <a><b>ksalaz1032019@gmail.com</b></a></h4>
 <h4 align= "center">Fun fact: <b><i>I'm a creative force with an unwavering dedication to my craft.</i></b></h4>
+<h4 align= "center">What i'm doing now?: <i>I'm trying to develop my own compiler able to translate my own language to assembly with three address code, for educational purposes!</i></h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/kevin.salazarvalle.5/" target="blank">
