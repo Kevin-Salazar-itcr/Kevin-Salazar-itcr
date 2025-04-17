@@ -4,14 +4,11 @@ Embracing the <em>pura vida</em> spirit from the heart of Costa Rica, I bring a 
 With a zest for innovation and a commitment to excellence, I'm not just a coder, I'm a creator weaving digital dreams into reality!
 </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kevin-salazar-itcr&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-salazar-itcr" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevin-salazar-itcr" alt="kevin-salazar-itcr" /></a> </p>
 <h3 align = "center">🌱 I’m currently learning </h3>
 <div align= "center">
 <!--<img style="width: 40px;height: 40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>-->
-<img width="90px" src="https://github.com/Kevin-Salazar-itcr/Kevin-Salazar-itcr/raw/main/icons/go.png" alt="go"/>
 <img width="90px" src="https://github.com/Kevin-Salazar-itcr/Kevin-Salazar-itcr/raw/main/icons/laravel.png" alt="laravel"/>
 <img width="90px" src="https://github.com/Kevin-Salazar-itcr/Kevin-Salazar-itcr/raw/main/icons/rails.png" alt="rails"/>
-<img width="90px" src="https://github.com/Kevin-Salazar-itcr/Kevin-Salazar-itcr/raw/main/icons/vue_js.png" alt="vue_js"/>
 </div>
 <h4 align= "center">👨‍💻 Feel free to explore all my projects at your leisure: <a><b>https://github.com/Kevin-Salazar-itcr</b></a></h4>
 <h4 align= "center">📫 Don't you wanna check out my private repos? Hit me up: <a><b>ksalaz1032019@gmail.com</b></a></h4>
@@ -25,7 +22,7 @@ With a zest for innovation and a commitment to excellence, I'm not just a coder,
     <a href="https://instagram.com/k_salaz21" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_salaz21" height="30" width="40" />
     </a>
-    <a href="coming soon" target="blank">
+    <a href="https://linkedin.com/in/ksalaz25" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" />
     </a>
     <a href="https://discord.gg/kevin_s23085" target="blank">
